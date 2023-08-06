@@ -6,7 +6,7 @@ deposit, withdraw and view balances. Built by using React JS.
 
 ## Check my Project
 
-Deployment Link : https://app.netlify.com/sites/scintillating-unicorn-535598/deploys
+Deployment Link : https://simple-banking-application-kavinesh.netlify.app/
 
 ## Features
 
