@@ -10,7 +10,7 @@ export default function Navbars() {
   return (
     <Navbar collapseOnSelect expand="lg"  variant="dark" id='style' >
       <Container>
-        <Navbar.Brand href="#/" style={{fontSize:'larger'}}><b>BAD BANK</b></Navbar.Brand>  
+        <Navbar.Brand href="#/" style={{fontSize:'larger'}}><b>AXIAL BANK</b></Navbar.Brand>  
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto" >
